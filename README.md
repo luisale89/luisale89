@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @luisale89
 - 👀 I’m interested in web development and AI
-- 🌱 I’m currently learning Python, React, IoT
+- 🌱 I’m currently learning Python, Javascript and IoT
 
 
 <!---
